@@ -1,17 +1,17 @@
-###Requirements
+#### Requirements
 
  ``Java 8``
 
-###Running the Code
+##### Running the Code
 
-####Windows - 
+#### Windows - 
 SET JAVA_HOME=<PATH_TO_JAVA>
 
 run `mvnw clean install`
 
 run `java -jar target\chatserver-0.0.1-SNAPSHOT.jar`
 
-####OSX - 
+#### OSX - 
 EXPORT JAVA_HOME=<PATH_TO_JAVA>
 
 run `./mvnw clean install`
